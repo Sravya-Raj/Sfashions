@@ -1,0 +1,12 @@
+.active1{
+    border-style: outset;
+    background-color:rgb(250, 225, 6);
+    color: rgb(224, 163, 240);
+    border-radius: 5px;
+  }
+  li:hover {
+      border-style: hidden;
+      background-color:rgb(250, 239, 144);
+      color: rgb(252, 244, 208);
+      border-radius: 5px;
+    }
